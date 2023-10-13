@@ -1,3 +1,7 @@
+# skimbot
+
+A script to skim through a PDF file and generate a summary. A simple experiment with file processing using the OpenAI GPT models.
+
 # Setup:
 
   1. Ensure you have python3 installed.
