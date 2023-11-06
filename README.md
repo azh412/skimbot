@@ -12,7 +12,7 @@ A script to skim through a PDF file and generate a summary. A simple experiment 
   
      `cd downloads` OR `cd Downloads`
      
-     `git clone https://github.com/azh412/VirtualPianoBot.git`
+     `git clone https://github.com/azh412/skimbot.git`
 
      `cd skimbot`
      
