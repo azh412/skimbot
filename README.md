@@ -1,6 +1,6 @@
 # skimbot
 
-A script to skim through a PDF file and generate a summary. A simple experiment with file processing using the OpenAI GPT models.
+A script to skim through a PDF file or a YouTube video and generate a summary. A simple experiment with file processing and the youtube-transcript-api using the OpenAI GPT models.
 
 # Setup:
 
